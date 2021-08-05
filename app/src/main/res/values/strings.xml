@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial2</string>
+    <string name="etTemp">Enter temperature</string>
+    <string name="radioButton1">Celcius</string>
+    <string name="radioButton2">Fahrenheit</string>
+    <string name="radioButton2">Fahrenheit</string>
+    <string name="calculateButton">CALCULATE</string>
+</resources>
